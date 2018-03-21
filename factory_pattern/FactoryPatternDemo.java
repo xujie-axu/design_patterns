@@ -12,5 +12,4 @@ public class FactoryPatternDemo {
         Shape shape3 = shapeFactory.getShape("rectangle");
         shape3.draw();
     }
-
 }
